@@ -23,6 +23,7 @@ namespace BaseballStatObserverPattern
             baseballData.setBaseballData(4, 4, 3);
             baseballData.setBaseballData(3, 2, 1);
             baseballData.setBaseballData(5, 2, 2);
+            baseballData.setBaseballData(3, 2, 0);
         }
     }
 }
